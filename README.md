@@ -23,3 +23,4 @@ Sasikarn Thipsungnoen 663020297-1
 | Chapter 1: Introduction   | [Introduction](https://drive.google.com/file/d/10sHr7rBhK8nNUW-bit-pzmKXaHID8gfX/view?usp=sharing)        |
 | Chapter 2: Getting to Know Your Data  | [Getting to Know Your Data](https://drive.google.com/file/d/1I4I8Wsf4TWS_pgAtYgCR6ozCzwiMhGDr/view?usp=sharing) |
 | Chapter 3: Data Preprocessing | [Data Preprocessing](https://drive.google.com/file/d/1R8Ad42I0Wt5CZiNzWBogcy-ZEbWE04ca/view?usp=sharing) |
+| Chapter 6: Data Preprocessing | [Mining Frequent Patterns, Association and Correlations](https://drive.google.com/file/d/19FKUPEsW8_Nn3lxJvyIrwekwAc_sd51H/view?usp=sharing)|
