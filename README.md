@@ -44,7 +44,7 @@ Sasikarn Thipsungnoen 663020297-1
 **Final Score = Score * %attendance**
 
 
-# เนื้อหาโดยสังเขป
+# เนื้อหาโดยสังเขป📜
 ## บทที่ 1: บทนำ (Introduction) [Click](https://drive.google.com/file/d/1VJ2ceYxBHDqBz9xVcdErGcm4GLmYzN4W/view?usp=sharing)
 - ทำไมต้องทำเหมืองข้อมูล? (Why Data Mining?)
 - การทำเหมืองข้อมูลคืออะไร? (What Is Data Mining?)
