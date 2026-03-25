@@ -3,8 +3,12 @@ Sasikarn Thipsungnoen 663020297-1
 
 # Course Info📂
 **รหัสวิชา:** SC663403
+
 **ชื่อวิชาภาษาไทย** การเตรียมข้อมูลและการทำเหมืองข้อมูล
+
 **ชื่อวิชาภาษาอังกฤษ** Data Pre-processing and Data Minig
+
+**อาจารย์ผู้สอน** รศ. ดร.ธนพงศ์ อินทระ
 
 ## คำอธิบายรายวิชา📝
 แนวคิดของการเตรียมข้อมูล ชนิดและประเภทของข้อมูล เครื่องมือที่ใช้ในการเตรียมข้อมูล การจัดการข้อมูลในรูปแบบต่างๆ พื้นฐานของการทำเหมืองข้อมูลและแนวคิดเชิงพรรณนา การสกัดความรู้จากข้อมูล อัลกอริทึมการสร้างตัวแบบเพื่อการทำนาย การค้นพบความสัมพันธ์ในการทำเหมืองข้อมูล การจัดกลุ่มข้อมูล เทคนิคการประเมิณตัวแบบ การเรียนรู้จากตัวแบบที่หลาหหลาย และกรณีศึกษาที่เกี่ยวข้อง
@@ -49,5 +53,24 @@ Sasikarn Thipsungnoen 663020297-1
 | Chapter 10: Cluster Analysis | [Basic Concepts and Methods](https://drive.google.com/file/d/1ELYKZHZWnZ0H3iCJWz-jZkeowb3UG81E/view?usp=sharing)|
 | หนังสือเพิ่มเติม | [AI บุญส่งเสริม](https://drive.google.com/file/d/1WFSJRFDvpqcXkSgJY_pr2PnyAvCLTVJB/view?usp=sharing)|
 
-## Project
-[Project](https://drive.google.com/file/d/1a2d8X3H8V88WfZih_JEPp1VXd66u7rso/view?usp=sharing)  
+## Project⛈️
+**Presentation:** [Project การพยากรณ์ปริมาณน้ำฝนรายเดือน ](https://drive.google.com/file/d/1a2d8X3H8V88WfZih_JEPp1VXd66u7rso/view?usp=sharing)  
+
+**Code:** [Project การพยากรณ์ปริมาณน้ำฝนรายเดือน ](https://colab.research.google.com/drive/1wf3E5hS0J-2UvFFgpe55wzEq-moumpka?usp=sharing)  
+
+**วัตถุประสงค์ของโปรเจกต์** 
+
+เพื่อเปรียบเทียบการพยากรณ์ปริมาณน้ำฝนของแต่ละโมเดล และหาโมเดลที่มีประสิทธิภาพดีที่สุด
+
+**โมเดลที่ใช้** 
+
+1. Long Short-Term Memory (LSTM)
+2. Transformed Target Regressor (TTR)
+3. Decision Tree Regressor
+4. Canonical Correlation Analysis (CCA)
+
+
+## Homework📚
+**งานกลุ่ม การหา Pattern form movie india** เพื่อแนะนำว่าผู้ผลิตหนังในแต่ละยุคควรผลิตหนังประเภทใด และมีความยาวเป็นแบบไหน
+
+**Presentation:** [Pattern form movie india ](https://drive.google.com/file/d/1gznD79U-OkCbR0R-4NMX75WIJGf1uchu/view?usp=sharing)  
