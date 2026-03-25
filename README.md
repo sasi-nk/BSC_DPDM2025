@@ -1,7 +1,15 @@
 # BSC_DPDM2025
 Sasikarn Thipsungnoen 663020297-1
 
-## Data Mining⛏️
+# Course Info📂
+**รหัสวิชา:** SC663403
+**ชื่อวิชาภาษาไทย** การเตรียมข้อมูลและการทำเหมืองข้อมูล
+**ชื่อวิชาภาษาอังกฤษ** Data Pre-processing and Data Minig
+
+## คำอธิบายรายวิชา📝
+แนวคิดของการเตรียมข้อมูล ชนิดและประเภทของข้อมูล เครื่องมือที่ใช้ในการเตรียมข้อมูล การจัดการข้อมูลในรูปแบบต่างๆ พื้นฐานของการทำเหมืองข้อมูลและแนวคิดเชิงพรรณนา การสกัดความรู้จากข้อมูล อัลกอริทึมการสร้างตัวแบบเพื่อการทำนาย การค้นพบความสัมพันธ์ในการทำเหมืองข้อมูล การจัดกลุ่มข้อมูล เทคนิคการประเมิณตัวแบบ การเรียนรู้จากตัวแบบที่หลาหหลาย และกรณีศึกษาที่เกี่ยวข้อง
+
+### Data Mining⛏️
 **Data Mining (การทำเหมืองข้อมูล)** คือการสกัดรูปแบบหรือความรู้ที่น่าสนใจ ซึ่งเป็นข้อมูลที่ไม่ปรากฏซ้ำ ไม่เป็นที่ทราบมาก่อน และอาจนำไปใช้ประโยชน์ได้จากข้อมูลจำนวนมหาศาล
 
 **เหตุผลที่ต้องมี Data Mining** 
@@ -16,6 +24,18 @@ Sasikarn Thipsungnoen 663020297-1
 
 ดังนั้น Data Mining จึงเป็นเครื่องมือในการเปลี่ยนชุดข้อมูลขนาดใหญ่ให้กลายเป็นความรู้ที่นำไปปฏิบัติได้ผ่านการวิเคราะห์ชุดข้อมูลโดยอัตโนมัติ
 
+
+## สัดส่วนคะแนน📊
+| Title      | Description | สัดส่วน (%) |
+| ----------- | ----------- |----------- |
+| Midterm      | Data Preprocessing (เดี่ยว)      | 25%  |
+| Final  | ทฤษฎี Data Mining   | 25%  |
+| Project  | Data Preprocessing + Data Mining (กลุ่ม 4 คน)| 20%  |
+| Homework | ทำแบบกลุ่ม | 15% |
+| Quiz | ทำในห้องเรียน (เดี่ยว) | 10% |
+| GitHub | การส่งงานและการตกแต่งรูปแบบบน GitHub| 5% |
+
+
 ## Lecture📒
 | Title      | Description |
 | ----------- | ----------- |
@@ -28,3 +48,6 @@ Sasikarn Thipsungnoen 663020297-1
 | Chapter 9: Classification | [Advanced Methods](https://drive.google.com/file/d/1rVkplA3zjS414sLgHO8b4fDaDMWcT__j/view?usp=sharing)|
 | Chapter 10: Cluster Analysis | [Basic Concepts and Methods](https://drive.google.com/file/d/1ELYKZHZWnZ0H3iCJWz-jZkeowb3UG81E/view?usp=sharing)|
 | หนังสือเพิ่มเติม | [AI บุญส่งเสริม](https://drive.google.com/file/d/1WFSJRFDvpqcXkSgJY_pr2PnyAvCLTVJB/view?usp=sharing)|
+
+## Project
+[Project](https://drive.google.com/file/d/1a2d8X3H8V88WfZih_JEPp1VXd66u7rso/view?usp=sharing)  
